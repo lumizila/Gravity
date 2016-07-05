@@ -15,12 +15,13 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 //$text-color:       #111;
-$text-color:       #200;
+$text-color:       #66ab8c;
 //$background-color: #fdfdfd;
-$background-color: #000000;
+$background-color: #fff7c0;
 $brand-color:      #2a7ae2;
 
-$grey-color:       #828282;
+//$grey-color:       #828282;
+$grey-color:       #66ab8c;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
@@ -73,7 +74,8 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
-    background-color: $background-color;
+    //background-color: $background-color;
+    background-image: url("large.jpg");
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -101,7 +103,10 @@ ul, ol, dl, figure,
  */
 img {
     max-width: 100%;
+    max-height: 100%;
+    border: 3px solid $grey-color-dark;
     vertical-align: middle;
+    
 }
 
 
@@ -148,7 +153,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: #aaa !important;
+    color: #fa7c92 !important;
     text-decoration: none;
 
     &:visited {
@@ -238,10 +243,10 @@ pre {
 
 
 
-/**
- * Wrapper
+/** * Wrapper
  */
 .wrapper {
+    background-color: $grey-color-light; // I added this
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
@@ -396,14 +401,15 @@ pre {
   padding-right: 2em;
 }
 .site-navigation {
-  color: #aaa;
+  //color: #aaa;
+  color: $grey-color-dark;
   text-transform: uppercase;
   font-size: 14px;
   letter-spacing: 2px;
   text-indent: 6px;
   font-family: 'Josefin Sans';
   font-weight: 300;
-  padding-top: 5em;
+  padding-top: 2em;
 }
 .page-title {
   text-transform: uppercase;
@@ -477,7 +483,8 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+ // border-top: 1px solid $grey-color-light;
+  border-top: 3px solid $grey-color-dark;
   padding: $spacing-unit 0;
 }
 .footer-heading {
@@ -571,9 +578,9 @@ pre {
   margin-bottom: $spacing-unit;
 }
 .post-title {
-  font-size: 62px;
-
+  font-size: 50px;
   text-align: center;
+  padding-top: 30px;
   font-family: "PT Sans";
   font-weight: 900;
   @include media-query($on-laptop) {

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "My own story"
+date:   2016-07-1 19:45:31 +0530
+categories: ["health", "compassion", "life"]
+author: "Lumi"
+---
+Under construction. 
