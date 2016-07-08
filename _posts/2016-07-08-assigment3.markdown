@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "ASSIGMENT 3: Today in class I had to convert a file"
+date:   2016-07-01 19:45:31 +0530
+categories: jekyll update
+author: "https://www.happycow.net/vegtopics/resources/organizations"
+---
+
+Because I'm too lazy I wrote only one line of text on my md file.
+After that I ran a bash script where I had pandoc commands to convert the file into many other types
+My program will ask for the name of the md file that needs to be converted without the ".md" at the end.
+
+just run:
+bash lumizila-convert-docs.sh
+and then the program will ask for a file name... I typed: 
+aboutme
+
+
+That's all folks.
