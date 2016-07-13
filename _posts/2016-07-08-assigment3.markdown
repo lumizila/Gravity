@@ -15,12 +15,12 @@ bash lumizila-convert-docs.sh
 and then the program will ask for a file name... I typed: 
 aboutme
 
-1. the link to the base "aboutme.md" file I used is:
+1. the link to the base "aboutme.md" file I used is:[aboutme](https://github.com/lumizila/assignment-3-convert-some-documents-lumizila/blob/master/aboutme.md)
+2. the link to the bash file I used is:[bash](https://github.com/lumizila/assignment-3-convert-some-documents-lumizila/blob/master/lumizila-convert-docs.sh)
+3. the links to the other files
 
-[aboutme](https://github.com/lumizila/assignment-3-convert-some-documents-lumizila/blob/master/aboutme.md)
-
-2. the link to the bash file I used is:
-
-[bash](https://github.com/lumizila/assignment-3-convert-some-documents-lumizila/blob/master/lumizila-convert-docs.sh)
-
+1.[docx](https://github.com/lumizila/assignment-3-convert-some-documents-lumizila/blob/master/aboutme.docx)
+2.[html](https://github.com/lumizila/assignment-3-convert-some-documents-lumizila/blob/master/aboutme.html)
+3.[odt](https://github.com/lumizila/assignment-3-convert-some-documents-lumizila/blob/master/aboutme.odt)
+4.[pdf](https://github.com/lumizila/assignment-3-convert-some-documents-lumizila/blob/master/aboutme.pdf)
 That's all folks.
