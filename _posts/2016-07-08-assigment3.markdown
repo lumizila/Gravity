@@ -6,8 +6,9 @@ categories: jekyll update
 author: "https://www.happycow.net/vegtopics/resources/organizations"
 ---
 
-Because I'm too lazy I wrote only one line of text on my md file.
-After that I ran a bash script where I had pandoc commands to convert the file into many other types
+## Because I'm too lazy I wrote only one line of text on my md file.
+
+### After that I ran a bash script where I had pandoc commands to convert the file into many other types
 My program will ask for the name of the md file that needs to be converted without the ".md" at the end.
 
 just run:
@@ -19,9 +20,12 @@ aboutme
 2. the link to the bash file I used is: [bash](https://github.com/lumizila/assignment-3-convert-some-documents-lumizila/blob/master/lumizila-convert-docs.sh)
 3. the links to the other files:
 
-1.[docx](https://github.com/lumizila/assignment-3-convert-some-documents-lumizila/blob/master/aboutme.docx)
-2.[html](https://github.com/lumizila/assignment-3-convert-some-documents-lumizila/blob/master/aboutme.html)
-3.[odt](https://github.com/lumizila/assignment-3-convert-some-documents-lumizila/blob/master/aboutme.odt)
-4.[pdf](https://github.com/lumizila/assignment-3-convert-some-documents-lumizila/blob/master/aboutme.pdf)
+* [docx](https://github.com/lumizila/assignment-3-convert-some-documents-lumizila/blob/master/aboutme.docx)
+
+* [html](https://github.com/lumizila/assignment-3-convert-some-documents-lumizila/blob/master/aboutme.html)
+
+* [odt](https://github.com/lumizila/assignment-3-convert-some-documents-lumizila/blob/master/aboutme.odt)
+
+* [pdf](https://github.com/lumizila/assignment-3-convert-some-documents-lumizila/blob/master/aboutme.pdf)
 
 That's all folks.
