@@ -3,13 +3,13 @@ layout: post
 title:  "ASSIGMENT 5: Group assigment, database interface"
 date:   2016-07-01 19:45:31 +0530
 categories: jekyll update
-author: "https://www.happycow.net/vegtopics/resources/organizations"
+author: "Luiza"
 ---
 
-#We created a file CreateDatabase.sh
+# We created a file CreateDatabase.sh
 
-##On that file we have the bash code that uses mysql to create and populate a database with the information we already had in our file.
+## On that file we have the bash code that uses mysql to create and populate a database with the information we already had in our file.
 
-####First the database is destroyed if it exists, then it is created and a table is created inside that database with the necessary rows to keep our files. After that, all the files with individual answers are put together into a single temp csv file. We use that csv file to populate the table we just created and put the database into a ".sql" file.
+#### First the database is destroyed if it exists, then it is created and a table is created inside that database with the necessary rows to keep our files. After that, all the files with individual answers are put together into a single temp csv file. We use that csv file to populate the table we just created and put the database into a ".sql" file.
 
 1. the link to the base "CreateDatabase.sh" file is: [bash file](dsadsa)
