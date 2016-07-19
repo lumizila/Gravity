@@ -12,4 +12,4 @@ author: "Luiza"
 
 #### First the database is destroyed if it exists, then it is created and a table is created inside that database with the necessary rows to keep our files. After that, all the files with individual answers are put together into a single temp csv file. We use that csv file to populate the table we just created and put the database into a ".sql" file.
 
-1. the link to the base "CreateDatabase.sh" file is: [bash file](dsadsa)
+1. the link to the base "CreateDatabase.sh" file is: [bash file](https://github.com/jhoertt/task-5-database-interface)
