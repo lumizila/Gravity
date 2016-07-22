@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "ASSIGMENT 5: Group assigment, database interface"
+date:   2016-07-01 19:45:31 +0530
+categories: jekyll update
+author: "Luiza"
+---
+
+# Assigment 6 - slides
+
+### For the final assigment we decided to talk about PokemonGO
+
+#### Here is the link to the files : [link](https://github.com/healeyj/task-6-be-presentable)
