@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ASSIGMENT 5: Group assigment, database interface"
+title:  "ASSIGMENT 6: Group assigment, slides"
 date:   2016-07-01 19:45:31 +0530
 categories: jekyll update
 author: "Luiza"
